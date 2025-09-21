@@ -8,6 +8,10 @@
   "keywords": [
     "log"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amohamedriyasdeen/deen-log.git"
+  },
   "author": "mrdeenbro",
   "license": "MIT",
   "description": "A simple logger package using console"
