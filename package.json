@@ -1,0 +1,14 @@
+{
+  "name": "deen-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Test/test.js"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "mrdeenbro",
+  "license": "MIT",
+  "description": "A simple logger package using console"
+}
